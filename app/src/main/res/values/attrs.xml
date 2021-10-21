@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TextCellWithImage">
+        <attr name="titleText" format="string" localization="suggested" />
+        <attr name="img_src" format="reference" />
+    </declare-styleable>
+</resources>
